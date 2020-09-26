@@ -18,6 +18,13 @@ List of the things that I've learned from this course:
 All these are the foundation of Tensorflow JS. But these are basics and we need to know about these terms and thoroughly and get acquainted with these things. Once you get completely acquainted then you can make more projects and interesting things using TFJs.
 
 ---
+## Certificate:
+
+<img src = "_assets/Certificate.jpg" width="900">
+
+Verify my Certificate [here](https://www.coursera.org/account/accomplishments/verify/6N9ZTRL7NARP)
+
+---
 
 Follow the Official TFJS Community on Twitter. [Follow](https://twitter.com/i/lists/1221544459390746624?s=20)
 
